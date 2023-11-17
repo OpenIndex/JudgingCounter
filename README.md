@@ -1,3 +1,23 @@
+# Judging Counter
+
+This a simple and distraction free mobile app for judges in fighting events. It allows to easily keep track of points / strikes.
+
+---
+
+<p align="center">
+<img src="share/screenshots/android/02.png" width="500" />
+</p>
+
+
+## Installation
+
+| Android | Android (F-Droid) | iOS |
+|:-:|:-:|:-:|
+| *not available yet* | *not available yet* | [<img src="share/resources/img/appstore-badge.png" height="50">](https://apps.apple.com/us/app/judging-counter/id6472386291) |
+
+
+## Development
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
