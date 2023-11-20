@@ -13,7 +13,7 @@ This a simple and distraction free mobile app for judges in fighting events. It 
 
 | Android | Android (F-Droid) | iOS |
 |:-:|:-:|:-:|
-| *not available yet* | *not available yet* | [<img src="share/resources/appstore-badge.png" height="50">](https://apps.apple.com/us/app/judging-counter/id6472386291) |
+| [<img src="share/resources/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=de.openindex.judging.counter) | *not available yet* | [<img src="share/resources/appstore-badge.png" height="50">](https://apps.apple.com/us/app/judging-counter/id6472386291) |
 
 
 ## Development
